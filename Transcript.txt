@@ -1,0 +1,118 @@
+
+FRI, FEB 07, 2014               OLYMPIC COLLEGE                                 
+                         UNOFFICIAL STUDENT TRANSCRIPT                          
+OTTERSEN CHRISTOPHER G                                                          
+510 NW COLEMAN CT                                                               
+POULSBO          WA 98370                                                       
+                                                                                
+ TERM     COURSE ID         -------- TITLE --------       GRADE      CREDITS    
+ FAL07    CHEM  139         PREP/INORGANIC CHEMISTRY       2.1          5.0     
+          ENGL  101         COMPOSITION                    3.2          5.0     
+          ENGR  100         INTRO TO ENGINEERING            P           1.0     
+          GEN-S 100         STRATEGIES/ACADEMIC SUCC       4.0          2.0     
+          MATH  119         PRECALCULUS I: ALGEBRA         3.4          5.0     
+                                                                                
+ Qtrly:     Gpa Cr  17.0  Cr Earn  18.0  P/S Cr   1.0  Grpts   51.5  GPA 3.03   
+                                                                                
+ WIN08    CHEM  140         GENERAL INORGANIC CHEM         3.5          5.0     
+          CHEM  141         GENERAL INORGANIC LAB          3.3          1.0     
+          ENGR  111         ENGINEERING PROBLEMS           3.1          2.0     
+          MATH  120         PRECALCULUS II: TRIG           3.5          5.0     
+          PEFSP 175         JOGGING/AEROBICS               4.0          2.0     
+                                                                                
+ Qtrly:     Gpa Cr  15.0  Cr Earn  15.0  P/S Cr   0.0  Grpts   52.5  GPA 3.50   
+                                                                                
+ SPR08    CHEM  150         General Inorganic Chem         2.2          5.0     
+          CHEM  151         General Inorganic Lab          2.4          1.0     
+          ENGL  104         Technical Writing              3.2          5.0     
+          MATH  124         Calculus I                     3.0          5.0     
+                                                                                
+ Qtrly:     Gpa Cr  16.0  Cr Earn  16.0  P/S Cr   0.0  Grpts   44.4  GPA 2.78   
+                                                                                
+          ========================================                              
+          A COURSE WITH "&" IS COMMON AMONG                                     
+          WASHINGTON STATE COMM & TECH COLLEGES                                 
+          WITH THE SAME COURSE.                                                 
+          ========================================                              
+ SUM08    HIST& 137         US History 2                   3.0          5.0     
+          PHYS  110         Introduction to Physics        3.9          6.0     
+                                                                                
+ Qtrly:     Gpa Cr  11.0  Cr Earn  11.0  P/S Cr   0.0  Grpts   38.4  GPA 3.49   
+                                                                                
+ FAL08    ENGR& 114         Engineering Graphics           4.0          4.0     
+          HIST& 136         US History 1                   3.5          5.0     
+          MATH& 152         Calculus II                    2.5          5.0     
+          PEFSP 187         Beginning Weight Train         4.0          2.0     
+                                                                                
+ Qtrly:     Gpa Cr  16.0  Cr Earn  16.0  P/S Cr   0.0  Grpts   54.0  GPA 3.38   
+                                                                                
+ WIN09    ART   136         Photography I                  3.7          5.0     
+          ENGL& 111         Intro to Literature            3.9          5.0     
+          MATH& 163         Calculus 3                     1.0R         5.0     
+                                                                                
+ Qtrly:     Gpa Cr  10.0  Cr Earn  10.0  P/S Cr   0.0  Grpts   38.0  GPA 3.80   
+                                                                                
+ SPR09    ECON& 202         Macro Economics                4.0          5.0     
+          MATH& 163         Calculus 3                     3.5          5.0     
+          PEFSP 153         Fast Fitness                   4.0          2.0     
+          PSYC& 100         General Psychology             4.0          5.0     
+                                                                                
+ Qtrly:     Gpa Cr  17.0  Cr Earn  17.0  P/S Cr   0.0  Grpts   65.5  GPA 3.85   
+                                                                                
+ FAL11    MATH& 264         Calculus 4                      W           5.0     
+          PHYS  254         Engineering Physics             W           6.0     
+                                                                                
+ Qtrly:     Gpa Cr   0.0  Cr Earn   0.0  P/S Cr   0.0  Grpts    0.0  GPA 0.00   
+                                                                                
+ WIN12    CS&   141         Computer Science I Java        3.5          5.0     
+          ENGR  170         Funds/Materials Science        3.5          4.0     
+          ENGR  171         Materials Science Lab          3.8          1.0     
+                                                                                
+ Qtrly:     Gpa Cr  10.0  Cr Earn  10.0  P/S Cr   0.0  Grpts   35.3  GPA 3.53   
+                                                                                
+ SPR12    CS    143         Computer Science II Java       4.0          5.0     
+          MATH& 264         Calculus 4                     4.0          5.0     
+                                                                                
+ Qtrly:     Gpa Cr  10.0  Cr Earn  10.0  P/S Cr   0.0  Grpts   40.0  GPA 4.00   
+                                                                                
+ FAL12    CIS   141         Programming Concepts           4.0          5.0     
+          CIS   145         Intro to C Language            4.0          5.0     
+          CIS   200         Programming Laboratory         4.0R         1.0     
+                                                                                
+ Qtrly:     Gpa Cr  10.0  Cr Earn  10.0  P/S Cr   0.0  Grpts   40.0  GPA 4.00   
+                                                                                
+ WIN13    CIS   142         Java I Introduction/OOP        4.0          5.0     
+          CIS   200         Programming Laboratory         4.0R         1.0     
+          CIS   210         SQL                            4.0          4.0     
+          CIS   225         Advanced C Language            4.0          5.0     
+          CS    240         Discrete Structures            4.0          5.0     
+                                                                                
+ Qtrly:     Gpa Cr  19.0  Cr Earn  19.0  P/S Cr   0.0  Grpts   76.0  GPA 4.00   
+                                      President's Scholar                       
+                                                                                
+ SPR13    CIS   143         Java II Fund/OOP               4.0          5.0     
+          CIS   200         Programming Laboratory         4.0          1.0     
+          CIS   206         Intro to Android               4.0          4.0     
+          CIS   285         Programming with C++           4.0          5.0     
+                                                                                
+ Qtrly:     Gpa Cr  15.0  Cr Earn  15.0  P/S Cr   0.0  Grpts   60.0  GPA 4.00   
+                                      President's Scholar                       
+                                                                                
+ SUM13    CIS   110         Info Systems Concepts          4.0          5.0     
+          CMST& 210         Interpersonal Communicat       4.0          5.0     
+          MATH& 146         Intro to Statistics            3.8          5.0     
+                                                                                
+ Qtrly:     Gpa Cr  15.0  Cr Earn  15.0  P/S Cr   0.0  Grpts   59.0  GPA 3.93   
+                                      President's Scholar                       
+                                                                                
+ FAL13    CIS   155         Web Development I              4.0          5.0     
+          CIS   201         Networking Laboratory          4.0          1.0     
+          CIS   205         Introduction to XML            4.0          2.0     
+          CIS   219         Introduction to ASP.NET        4.0          4.0     
+          CIS   236         Info System Security I         4.0          4.0     
+                                                                                
+ Qtrly:     Gpa Cr  16.0  Cr Earn  16.0  P/S Cr   0.0  Grpts   64.0  GPA 4.00   
+                                      President's Scholar                       
+                                                                                
+ Cum:       Gpa Cr 197.0  Cr Earn 198.0  P/S Cr   1.0  Grpts  718.6  GPA 3.65   
+ Clvl:      Gpa Cr 197.0  Cr Earn 198.0  P/S Cr   1.0  Grpts  718.6  GPA 3.65   
